@@ -1,4 +1,4 @@
-# React + TypeScript + Vite + SpringBoot (for Kotlin REST API)
+# React + TypeScript + Vite + SpringBoot (for kotlin REST API)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
