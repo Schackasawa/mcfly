@@ -1,0 +1,7 @@
+1) Installed nodejs from web
+2) npm create vite (installs vite)
+3) Chose React and Typescript
+4) cd mcfly
+5) npm install
+6) npm run dev
+
