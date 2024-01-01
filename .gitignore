@@ -22,3 +22,5 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+mcfly-rest-api/src/main/resources/application.properties
